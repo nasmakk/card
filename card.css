@@ -1,0 +1,33 @@
+.main-div{
+    display:flex;
+    justify-content: space-around;
+    width: 100%;
+    /* align-items: baseline; */
+    background-color: hsla(222, 31%, 94%, 0.621);
+    flex-wrap: wrap;
+    height: 700px;
+    
+    
+    }
+    .sub1{
+        width: 23%;
+        height: 350px;
+        background-color: #96929e43;
+        border-radius: 10px;
+    }.sub2{
+        width: 23%;
+        height: 350px;
+        background-color: hsla(207, 87%, 46%, 0.482);
+        border-radius: 10px;
+    }.sub3{
+        width: 23%;
+        height: 350px;
+        background-color: hsla(208, 88%, 53%, 0.298);
+        border-radius: 10px;
+    }.sub4{
+        width: 23%;
+        height: 350px;
+        background-color: #0c65b3c5;
+        border-radius: 10px;
+        
+    }
